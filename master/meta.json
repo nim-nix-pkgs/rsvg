@@ -1,8 +1,0 @@
-{
-  "desc": "Wrapper for librsvg, a Scalable Vector Graphics (SVG) rendering library",
-  "license": "MIT",
-  "name": "rsvg",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/def-/rsvg",
-  "version": "master"
-}
